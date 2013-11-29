@@ -1,0 +1,19 @@
+{
+  "name": "final-year-project",
+  "version": "0.0.1",
+  "description": "",
+  "author": {
+    "name": "Danielle Johnson"
+  },
+  "main": "./server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dinkydani/finalYearProject"
+  },
+  "dependencies": {
+    "express" : "3.3.8",
+    "mongodb" : "1.1.11",
+    "ntwitter" : "0.5.0",
+    "superagent": "0.15.7"
+  }
+}
